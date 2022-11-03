@@ -5,4 +5,5 @@ This is a dark custom theme from https://docs.jabref.org/advanced/custom-themes
 
 Appearance --> CustomeTheme
 
-Test
+![Jabref Screenshow](ScreenshotJabref.png?raw=true "Screenshot")
+
