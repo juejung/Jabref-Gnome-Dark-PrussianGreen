@@ -13,11 +13,7 @@
     -jr-light-red: #db1d2b;
     -jr-green: #10ac84; /* #1cb631; */
     -jr-dark-green: #255652;
-<<<<<<< HEAD
     -jr-dark-orange: #a55107;
-=======
-    -jr-dark-orange: #8b4600;
->>>>>>> 1a35403 (temp)
     -jr-light-green: #28d93c;
     -jr-blue: #2c2cb7;
     -jr-light-blue: #3a3ad9;
@@ -161,22 +157,13 @@
 /* Number columns in group sidebar */
 .numberColumn > .hits:any-selected {
     /* -fx-background-color: derive(-jr-gray-3, 25%); */
-<<<<<<< HEAD
-=======
-    /* -fx-background-color: derive(-jr-dark-green, 25%); */
->>>>>>> 1a35403 (temp)
     -fx-background-color: derive(-jr-dark-orange, 25%);
 }
 
 /* Number columns in group sidebar */
 .numberColumn > .hits:all-selected {
     /* -fx-background-color: -jr-gray-3; */
-<<<<<<< HEAD
     -fx-background-color: -jr-dark-orange;
-=======
-    /* -fx-background-color: derive(-jr-dark-green, -25%) */
-    -fx-background-color: derive(-jr-dark-orange, -25%)
->>>>>>> 1a35403 (temp)
 }
 
 #preferencesContainer .tab-pane > .tab-header-area > .tab-header-background {
